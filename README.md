@@ -1,6 +1,4 @@
-# tugas-1-driving-simulation-paramastri
-tugas-1-driving-simulation-paramastri created by GitHub Classroom
-
+# tugas-1-library-simulation-paramastri
 
 - Ahmad Naufal
 - Tria Nur Aisyah Amini
