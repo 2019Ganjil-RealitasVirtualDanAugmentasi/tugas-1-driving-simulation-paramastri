@@ -1,5 +1,4 @@
-# tugas-1-library-simulation-paramastri
+# tugas-1-driving-simulation-paramastri
 
-- Ahmad Naufal
-- Tria Nur Aisyah Amini
-- Paramastri Ardiningrum
+Oleh:
+Paramastri Ardiningrum
